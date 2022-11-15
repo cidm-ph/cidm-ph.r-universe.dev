@@ -1,5 +1,9 @@
 [
     {
+        "package": "ggautomap",
+        "url": "https://github.com/cidm-ph/ggautomap"
+    },
+    {
         "package": "ggmapinset",
         "url": "https://github.com/cidm-ph/ggmapinset"
     }
