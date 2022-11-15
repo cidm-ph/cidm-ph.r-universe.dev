@@ -6,5 +6,9 @@
     {
         "package": "ggmapinset",
         "url": "https://github.com/cidm-ph/ggmapinset"
+    },
+    {
+        "package": "nswgeo",
+        "url": "https://github.com/cidm-ph/nswgeo"
     }
 ]
