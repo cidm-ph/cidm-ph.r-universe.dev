@@ -1,5 +1,9 @@
 [
     {
+        "package": "cartographer",
+        "url": "https://github.com/cidm-ph/cartographer"
+    },
+    {
         "package": "ggautomap",
         "url": "https://github.com/cidm-ph/ggautomap"
     },
