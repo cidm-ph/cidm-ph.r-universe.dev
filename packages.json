@@ -14,5 +14,9 @@
     {
         "package": "nswgeo",
         "url": "https://github.com/cidm-ph/nswgeo"
+    },
+    {
+        "package": "epifish",
+        "url": "https://github.com/learithe/epifish"
     }
 ]
