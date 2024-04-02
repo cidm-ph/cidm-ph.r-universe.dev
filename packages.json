@@ -16,6 +16,10 @@
         "url": "https://github.com/cidm-ph/nswgeo"
     },
     {
+        "package": "phylepic",
+        "url": "https://github.com/cidm-ph/phylepic"
+    },
+    {
         "package": "epifish",
         "url": "https://github.com/learithe/epifish"
     }
