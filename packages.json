@@ -22,9 +22,5 @@
     {
         "package": "jentre",
         "url": "https://github.com/cidm-ph/jentre"
-    },
-    {
-        "package": "epifish",
-        "url": "https://github.com/learithe/epifish"
     }
 ]
