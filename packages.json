@@ -22,5 +22,9 @@
     {
         "package": "jentre",
         "url": "https://github.com/cidm-ph/jentre"
+    },
+    {
+        "package": "waratah",
+        "url": "https://github.com.digitalnsw/nsw-r-visualisations"
     }
 ]
